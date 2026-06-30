@@ -1,12 +1,14 @@
 <div align="center">
 
-# Hi, I'm Prashant Kumar
+# Hi there 👋 I'm Keshav
 
-### Full Stack Developer • AI Enthusiast • Open Source Learner
+### 🚀 Full Stack Developer • AI Enthusiast • MERN/PERN Developer
 
-Building scalable web applications, integrating AI into real-world products, and solving problems with code.
+<p>
+Building scalable web applications, integrating AI into real-world products, and continuously learning new technologies.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Powered+Web+Applications;React+%7C+Node.js+%7C+MongoDB;Learning+Everyday+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI-Powered+Web+Applications;React+%7C+Node.js+%7C+MongoDB;LLMs+%7C+Prompt+Engineering;Always+Learning+🚀"/>
 
 </div>
 
@@ -17,174 +19,174 @@ Building scalable web applications, integrating AI into real-world products, and
 - 🎓 B.Tech Computer Science @ Bennett University
 - 💻 Full Stack Developer specializing in **MERN & PERN**
 - 🤖 Exploring **LLMs, AI Integration & Prompt Engineering**
-- 📈 Passionate about building products that scale to thousands of users
-- 🌱 Currently mastering
-  - Data Structures & Algorithms (C++)
-  - System Design
-  - Next.js
-  - PostgreSQL
-  - AI-powered Applications
-- ⚡ Love building projects instead of just tutorials
+- 🚀 Passionate about building scalable and AI-powered applications
+- 🌱 Currently learning **System Design, Next.js, PostgreSQL & Cloud**
+- 📚 Solving **Data Structures & Algorithms** in C++
+- 🌍 Open Source Contributor (Learning)
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+### 💻 Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript"/>
+</p>
 
-### Frontend
+### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+</p>
 
-### Backend
+### ⚙️ Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
-### Databases
+### 🗄️ Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql"/>
+</p>
 
-### AI
+### 🤖 AI & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker"/>
+</p>
+
+**AI Technologies**
 
 - OpenAI API
 - Claude AI
 - Gemini API
 - Prompt Engineering
 - LLM Integration
-- PDF Processing
-- AI Automation
-
----
-
-# ⭐ Featured Projects
-
-## 🧠 AI Resume Analyzer
-
-An AI-powered platform that analyzes resumes using Vision LLMs and provides:
-
-- ATS Score
-- Resume Review
-- Keyword Gap Analysis
-- Strengths & Weaknesses
-- Improvement Suggestions
-
-**Tech**
-
-React • Tailwind CSS • PDF.js • Claude AI • GPT-4o • Puter API
-
----
-
-## 🎮 HabitQuest
-
-Gamified productivity platform with
-
-- XP System
-- Streaks
-- Leaderboards
-- AI Habit Suggestions
-- Journals
-- Pomodoro
-- Heatmaps
+- PDF.js
+- REST APIs
 - JWT Authentication
 
-**Tech**
+---
 
-React • Node.js • Express • MongoDB • JWT
+# 💡 What I'm Working On
+
+- 🧠 AI Powered Web Applications
+- ⚡ Scalable Full Stack Products
+- 📚 Data Structures & Algorithms
+- 🤖 LLM Integration & AI Automation
+- 🌍 Open Source Contributions
+- ☁️ Cloud & System Design
 
 ---
 
-# 📚 Currently Learning
+# 🛠 Developer Toolbox
 
-```text
-✔ Data Structures & Algorithms
-✔ System Design
-✔ Next.js
-✔ PostgreSQL
-✔ AI Engineering
-✔ Open Source Contributions
-```
+<p>
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+💻 VS Code &nbsp;&nbsp; • &nbsp;&nbsp;
+🌿 Git & GitHub &nbsp;&nbsp; • &nbsp;&nbsp;
+📮 Postman &nbsp;&nbsp; • &nbsp;&nbsp;
+🎨 Figma &nbsp;&nbsp; • &nbsp;&nbsp;
+📄 PDF.js &nbsp;&nbsp; • &nbsp;&nbsp;
+🤖 OpenAI • Claude • Gemini &nbsp;&nbsp; • &nbsp;&nbsp;
+🐳 Docker (Learning)
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="97%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🏆 LeetCode Journey
+# 📈 Contribution Graph
 
-```text
-🎯 Goal:
-500+ Problems
-★★★★★ Strong DSA Foundation
-```
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🌍 Let's Connect
+# 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4"/>
+
+</div>
+
+---
+
+# 💭 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build impactful AI Products
+- 🌍 Contribute to Open Source
+- 📚 Master System Design
+- 💼 Secure a Software Engineering Internship
+- 🤖 Become an AI Engineer
+- ☁️ Learn Cloud & DevOps
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### "Build. Learn. Share. Repeat."
+### ⭐ Thanks for visiting my profile!
 
-⭐ Thanks for visiting my profile!
+*"Code. Learn. Build. Repeat."*
 
-</div>## 📬 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/prashant-kumar-pathak-701863313/)
-- [GitHub](https://github.com/prashantkr5)
-- [Email](mailto:prashant.kr6555@gmail.com)
-- [Instagram]()
-
----
-
-> “Build things. Break things. But most importantly — **Learn from everything.**” 🔥
-
+</div>
